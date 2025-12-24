@@ -1,3 +1,8 @@
+Name:Anushma Waiba Tamang                       Date:24 December,2025
+Roll no:5                                       Program:BIT
+
+                  CHAPTER 2: WEBSITE DEVELOPMENT PROCESS
+
 Group A: Short Questions (2 Marks)
 1. Define the term “Sitemap” in the planning phase?
 Ans:A Sitemap is a visual or conceptual diagram that represents the hierarchical structure of a website. It outlines how different pages relate to one another, helping developers define the user journey and ensuring that the navigation is intuitive before any coding begins.
@@ -34,7 +39,8 @@ Understanding the audience (age, tech-savviness, interests) dictates the design 
 Group C: Scenario-Based Questions (5 Marks)
 8.You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining
 the potential risks (security, functionality, compatibility) of skipping this phase.
-Ans:Skipping the testing phase can lead to serious problems for an e-commerce website. Without proper testing, security vulnerabilities may remain, putting customer data and online payments at risk. Functional errors such as broken links, failed checkout processes, or incorrect order calculations may occur, leading to customer dissatisfaction and loss of sales. 
+Ans:Skipping the testing phase can lead to serious problems for an e-commerce website. Without proper testing, security vulnerabilities may remain, putting customer data and online payments at risk. 
+Functional errors such as broken links, failed checkout processes, or incorrect order calculations may occur, leading to customer dissatisfaction and loss of sales. 
 Compatibility issues may arise if the site is not tested on different browsers, devices, and operating systems, causing poor user experience for some users. Testing ensures the website is secure, reliable, and works correctly before launch, ultimately saving time, money, and protecting the company’s reputation.
 
 9. A developer begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze what went wrong in the process and how it should have been handled.
